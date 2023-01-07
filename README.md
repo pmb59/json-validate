@@ -1,6 +1,12 @@
 # json-validate
 JSON validator in bash.
 
+## Requirements
+```
+conda install -c conda-forge jq
+```
+## Run
+
 ```
 chmod +x validate_json.sh
 
