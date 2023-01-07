@@ -1,5 +1,5 @@
 # json-validate
-JSON validator in bash.
+JSON/ JSONL validator in bash.
 
 ## Requirements
 ```
