@@ -5,6 +5,10 @@ JSON/ JSONL validator in bash.
 ```
 conda install -c conda-forge jq
 ```
+or
+```
+conda install -c conda-forge python
+```
 ## Run
 
 ```
