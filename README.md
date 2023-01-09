@@ -3,6 +3,8 @@ JSON/ JSONL validator in bash.
 
 ## Requirements
 ```
+conda create --name validatejson
+conda activate validatejson
 conda install -c conda-forge jq
 ```
 or
